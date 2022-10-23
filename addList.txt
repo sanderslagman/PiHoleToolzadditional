@@ -1,0 +1,14 @@
+# Additional blocklist based on https://d3ward.github.io/toolz/adblock.html adblocktest
+
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://amazonaax.com
+0.0.0.0 https://api.bugsnag.com
+0.0.0.0 https://app.bugsnag.com
+0.0.0.0 https://browser.sentry-cdn.com
+0.0.0.0 https://advertising.twitter.com
+0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 https://metrics1.data.hicloud.com
+0.0.0.0 https://metrics5.data.hicloud.com 
+0.0.0.0 https://samsung-com.112.2o7.net
